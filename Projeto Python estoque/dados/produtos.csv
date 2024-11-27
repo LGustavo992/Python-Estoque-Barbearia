@@ -1,0 +1,10 @@
+id, descricao, valor, tipo, data de compra, data de venda, categoria,  status
+1, produtos cabelo, 40, cabelo, 27/05/2024, 07/07/2024, pomada matte, pendente
+2, produtos barba, 30, barba, 25/04/2024, 30/11/2024, balm barba, pago
+3, acessorios, 60, pele, 08/09/2024, , gel facial, 
+
+
+
+
+Não é uma boa prática enviar arquivos com dados para o github
+
