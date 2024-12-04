@@ -1,4 +1,4 @@
-from funcionalidades import criar_nova_conta
+from funcionalidades import criar_novo_produto
 
 def executar():
-    criar_nova_conta.executar()
+    criar_novo_produto.executar()

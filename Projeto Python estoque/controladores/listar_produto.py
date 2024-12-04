@@ -1,5 +1,5 @@
 import funcionalidades
-import funcionalidades.listar_produto_por_tipo
+import funcionalidades.listar_produtos_por_tipo
 
 opcao_tipo = {
     "1": "cabelo",

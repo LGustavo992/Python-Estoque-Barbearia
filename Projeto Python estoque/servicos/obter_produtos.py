@@ -4,7 +4,7 @@ def executar():
     try: 
         with open("dados/produtos.csv", "r", encoding="utf8") as arquivo:
             linha_atual = 0
-            for linha in arquivo
+            for linha in arquivo:
                 if linha_atual == 0:
                     linha_atual += 1
                 else:

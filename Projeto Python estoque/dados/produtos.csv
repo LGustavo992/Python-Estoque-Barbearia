@@ -5,6 +5,7 @@ id, descricao, valor, tipo, data de compra, data de venda, categoria,  status
 
 
 
-
 Não é uma boa prática enviar arquivos com dados para o github
 
+
+1,pomada de cabelo,35,cabelo,25/05/1988,25/48/8558,pomadas,pendente
