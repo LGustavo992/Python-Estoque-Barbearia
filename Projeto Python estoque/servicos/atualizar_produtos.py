@@ -29,6 +29,9 @@ def executar(novos_produtos):
     """
     try:
         with open("dados/produtos.csv", "w", encoding="utf8") as arquivo:
+            """
+            WRITELINES passa uma lista de string e ele vai substituir todo meu arquivo
+            """
             arquivo.writelines(linhas)
         return True
     except Exception as erro:

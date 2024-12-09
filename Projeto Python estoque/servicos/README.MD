@@ -8,8 +8,8 @@ Sistema para controle de produtos e serviçoes de uma barbearia. Registros de de
         - Tipo: Cabelo, Barba, Pele, quimica.
         - Descrição: Ex.: "Corte infantil", "depilação nariz e orelha".
         - Valor: Quantia em moeda local.
-        - Data de vencimento.
-        - Data de recebimento.
+        - Data de compra.
+        - Data de venda.
         - Categoria: Ex.: "Pomada", "Balm", "Esfoliante".
         - Status: Pago, Recebido ou Pendente.
 - Ler (Read):
